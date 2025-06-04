@@ -7,7 +7,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from langchain.memory import ConversationBufferMemory
 
 class ModelSetup:
-    def __init__(self, model_name="microsoft/phi-2"):
+    def __init__(self, model_name="mistralai/Mistral-7B-Instruct-v0.1"):
         self.model_name = model_name
         self.tokenizer = None
         self.model = None
