@@ -1,0 +1,51 @@
+2025-06-04 12:35:34,936 - INFO - Initialized text splitter with chunk_size=1000, chunk_overlap=200
+2025-06-04 12:35:34,936 - INFO - Processing JSON file: scraped_data\scraped_data.json
+2025-06-04 12:35:34,940 - INFO - Processed https://snsce.ac.in/pgcourses_me_mtech/ with 6 chunks
+2025-06-04 12:35:34,947 - INFO - Processed https://snscahs.org/#b145802 with 19 chunks
+2025-06-04 12:35:34,956 - INFO - Processed https://main.snsgroups.com/PressNewsRoom_46_35293/ with 29 chunks
+2025-06-04 12:35:34,972 - INFO - Processed https://drsnsrcas.ac.in/csdepartmentdrsnsrcas/ with 17 chunks
+2025-06-04 12:35:34,975 - INFO - Processed https://snsct.org/agriculture_engineering_snsct2/ with 6 chunks
+2025-06-04 12:35:34,977 - INFO - Processing JSON file: scraped_data\snsfulldata_20250604_115808.json
+2025-06-04 12:35:34,999 - WARNING - No text for metadata in snsfulldata_20250604_115808.json
+2025-06-04 12:35:35,006 - WARNING - Skipping pages_data in snsfulldata_20250604_115808.json: Content not a dictionary
+2025-06-04 12:35:35,006 - WARNING - Skipping documents in snsfulldata_20250604_115808.json: Content not a dictionary
+2025-06-04 12:35:35,007 - WARNING - Skipping buttons in snsfulldata_20250604_115808.json: Content not a dictionary
+2025-06-04 12:35:35,007 - INFO - Processing JSON file: scraped_data\snsfulldata_20250604_115824.json
+2025-06-04 12:35:35,010 - WARNING - No text for metadata in snsfulldata_20250604_115824.json
+2025-06-04 12:35:35,010 - WARNING - Skipping pages_data in snsfulldata_20250604_115824.json: Content not a dictionary
+2025-06-04 12:35:35,011 - WARNING - Skipping documents in snsfulldata_20250604_115824.json: Content not a dictionary
+2025-06-04 12:35:35,011 - WARNING - Skipping buttons in snsfulldata_20250604_115824.json: Content not a dictionary
+2025-06-04 12:35:35,012 - INFO - Processing JSON file: scraped_data\sns_complete_data_20250604_111759.json
+2025-06-04 12:35:35,160 - WARNING - No text for metadata in sns_complete_data_20250604_111759.json
+2025-06-04 12:35:35,160 - WARNING - Skipping institutions in sns_complete_data_20250604_111759.json: Content not a dictionary
+2025-06-04 12:35:35,161 - WARNING - Skipping pages_data in sns_complete_data_20250604_111759.json: Content not a dictionary
+2025-06-04 12:35:35,161 - WARNING - Skipping documents in sns_complete_data_20250604_111759.json: Content not a dictionary
+2025-06-04 12:35:35,161 - INFO - Processing JSON file: scraped_data\sns_complete_data_20250604_112229.json
+2025-06-04 12:35:35,173 - WARNING - No text for metadata in sns_complete_data_20250604_112229.json
+2025-06-04 12:35:35,173 - WARNING - Skipping institutions in sns_complete_data_20250604_112229.json: Content not a dictionary
+2025-06-04 12:35:35,173 - WARNING - Skipping pages_data in sns_complete_data_20250604_112229.json: Content not a dictionary
+2025-06-04 12:35:35,173 - WARNING - Skipping documents in sns_complete_data_20250604_112229.json: Content not a dictionary
+2025-06-04 12:35:35,173 - WARNING - Skipping buttons in sns_complete_data_20250604_112229.json: Content not a dictionary
+2025-06-04 12:35:35,175 - INFO - Processing JSON file: scraped_data\sns_complete_data_20250604_112248.json
+2025-06-04 12:35:35,177 - WARNING - No text for metadata in sns_complete_data_20250604_112248.json
+2025-06-04 12:35:35,177 - WARNING - Skipping institutions in sns_complete_data_20250604_112248.json: Content not a dictionary
+2025-06-04 12:35:35,177 - WARNING - Skipping pages_data in sns_complete_data_20250604_112248.json: Content not a dictionary
+2025-06-04 12:35:35,178 - WARNING - Skipping documents in sns_complete_data_20250604_112248.json: Content not a dictionary
+2025-06-04 12:35:35,178 - WARNING - Skipping buttons in sns_complete_data_20250604_112248.json: Content not a dictionary
+2025-06-04 12:35:35,178 - INFO - Processing JSON file: scraped_data\sns_complete_data_20250604_113847.json
+2025-06-04 12:35:35,182 - WARNING - No text for metadata in sns_complete_data_20250604_113847.json
+2025-06-04 12:35:35,182 - WARNING - Skipping institutions in sns_complete_data_20250604_113847.json: Content not a dictionary
+2025-06-04 12:35:35,183 - WARNING - Skipping pages_data in sns_complete_data_20250604_113847.json: Content not a dictionary
+2025-06-04 12:35:35,183 - WARNING - Skipping documents in sns_complete_data_20250604_113847.json: Content not a dictionary
+2025-06-04 12:35:35,184 - WARNING - Skipping buttons in sns_complete_data_20250604_113847.json: Content not a dictionary
+2025-06-04 12:35:35,184 - INFO - Processing JSON file: scraped_data\sns_institutions_20250604_111759.json
+2025-06-04 12:35:35,208 - WARNING - No text for metadata in sns_institutions_20250604_111759.json
+2025-06-04 12:35:35,208 - WARNING - Skipping institutions in sns_institutions_20250604_111759.json: Content not a dictionary
+2025-06-04 12:35:35,208 - INFO - Processing JSON file: scraped_data\sns_institutions_20250604_112229.json
+2025-06-04 12:35:35,210 - WARNING - No text for metadata in sns_institutions_20250604_112229.json
+2025-06-04 12:35:35,210 - WARNING - Skipping institutions in sns_institutions_20250604_112229.json: Content not a dictionary
+2025-06-04 12:35:35,210 - INFO - Processing JSON file: scraped_data\sns_rag_ready_20250604_113702.json
+2025-06-04 12:35:35,212 - WARNING - Skipping file sns_rag_ready_20250604_113702.json: Expected dict at root, got list
+2025-06-04 12:35:35,212 - INFO - Processing JSON file: scraped_data\sns_rag_ready_20250604_113707.json
+2025-06-04 12:35:35,214 - WARNING - Skipping file sns_rag_ready_20250604_113707.json: Expected dict at root, got list
+2025-06-04 12:35:35,218 - INFO - Saved 77 documents to rag_documents.json
