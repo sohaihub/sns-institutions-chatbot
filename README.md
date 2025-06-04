@@ -1,4 +1,5 @@
 🧠 SNS Institution Q&A Chatbot
+
 An AI-powered Q&A chatbot for SNS Institutions, built using a fine-tuned Mistral-7B model, a RAG (Retrieval-Augmented Generation) system with FAISS, and an agentic AI approach. The chatbot is deployed via a Streamlit app with an integrated email automation agent for handling office-related queries.
 
 📌 Table of Contents
