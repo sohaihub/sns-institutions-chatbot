@@ -170,7 +170,7 @@ def send_email_enquiry(name, email, phone, course_interest, message_type="genera
     try:
         msg = MIMEMultipart()
         msg["From"] = EMAIL_ADDRESS
-        msg["To"] = "soha.r.ihub@snsgroups.com" "parthispostbox@gmail.com"
+        msg["To"] = "prince.v.dt@snsgroups.com" "parthispostbox@gmail.com"
         msg["Subject"] = f"SNS Institutions - {message_type.title()} Enquiry from {name}"
         
         body = f"""
